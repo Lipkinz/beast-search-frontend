@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:3000'; // Backend URL
+const API_URL = 'https://beast-search-backend-production.up.railway.app'; // Updated Backend URL
 
 export const fetchSearchResults = async (query) => {
     try {
