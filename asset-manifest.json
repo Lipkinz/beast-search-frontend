@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/beast-search-frontend/static/css/main.0da3dd21.css",
-    "main.js": "/beast-search-frontend/static/js/main.e90cafe7.js",
+    "main.js": "/beast-search-frontend/static/js/main.b3b52c42.js",
     "static/js/453.1bf27d3e.chunk.js": "/beast-search-frontend/static/js/453.1bf27d3e.chunk.js",
     "index.html": "/beast-search-frontend/index.html",
     "main.0da3dd21.css.map": "/beast-search-frontend/static/css/main.0da3dd21.css.map",
-    "main.e90cafe7.js.map": "/beast-search-frontend/static/js/main.e90cafe7.js.map",
+    "main.b3b52c42.js.map": "/beast-search-frontend/static/js/main.b3b52c42.js.map",
     "453.1bf27d3e.chunk.js.map": "/beast-search-frontend/static/js/453.1bf27d3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0da3dd21.css",
-    "static/js/main.e90cafe7.js"
+    "static/js/main.b3b52c42.js"
   ]
 }
